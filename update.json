@@ -1,7 +1,7 @@
 {
-  "version": "0.19.30",
-  "url": "https://raw.githubusercontent.com/Lyomix/LYONIX-updates/main/LYONIX-v0.19.30.zip",
-  "sha256": "7819c5af5c583c2b6b7e293ae5221b1dfbb78a6c135e0223b9bae4462d47a923",
-  "size": 96219516,
-  "notes": "Nieuwe gesloten LYONIX Windows-release v0.19.30."
+  "version": "0.19.31",
+  "url": "https://raw.githubusercontent.com/Lyomix/LYONIX-updates/main/LYONIX-v0.19.31.zip",
+  "sha256": "3ce5c9c0ccc2253d1d743a6695167b6cefa41d220181cb2f088ba927cc8423ae",
+  "size": 96222056,
+  "notes": "Nieuwe gesloten LYONIX Windows-release v0.19.31."
 }
